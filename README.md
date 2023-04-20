@@ -9,4 +9,5 @@ In my free time, I like to work on personal projects, attend coding meetups, and
 
 If you're interested in connecting or have any questions, feel free to reach out. I look forward to hearing from you!"
 
+Look me up! 🕵️
 Linkedin: https://www.linkedin.com/in/nafismahamudshahin
