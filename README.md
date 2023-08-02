@@ -32,7 +32,7 @@ I'm a passionate web developer with experience in creating modern and responsive
 
 ## 📫 Contact Me
 
-You can reach out to me via email at [nafismahamudshahin@gmail.com](mailto:nafismahamudshahin@gmail.com). Feel free to get in touch for any project collaboration or job opportunities!
+Email at [nafismahamudshahin@gmail.com](mailto:nafismahamudshahin@gmail.com). 
 
 ## 🔗 Social Media
 
@@ -46,4 +46,10 @@ Connect with me on social media:
 ## 🤝 Let's Collaborate
 
 I'm always open to interesting projects and collaborations. Feel free to reach out if you'd like to work together!
+
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
