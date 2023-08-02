@@ -11,6 +11,14 @@ If you're interested in connecting or have any questions, feel free to reach out
 
 I'm a passionate web developer with experience in creating modern and responsive websites. Welcome to my GitHub profile! Here, you'll find some of my projects that reflect my love for coding and problem-solving.
 
+## 🚀 Skills
+
+- HTML5, CSS3, JavaScript
+- Front-end frameworks (React, Vue, Angular)
+- Back-end development (Node.js, Express)
+- Database management (SQL, MongoDB)
+- Version control (Git, GitHub)
+
 ## 🌐 Projects
 
 ### Project 1: [](https://github.com/yourusername/project1)
@@ -20,13 +28,7 @@ I'm a passionate web developer with experience in creating modern and responsive
 [P d]
 
 
-## 🚀 Skills
 
-- HTML5, CSS3, JavaScript
-- Front-end frameworks (React, Vue, Angular)
-- Back-end development (Node.js, Express)
-- Database management (SQL, MongoDB)
-- Version control (Git, GitHub)
 
 ## 📫 Contact Me
 
