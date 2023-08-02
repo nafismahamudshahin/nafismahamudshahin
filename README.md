@@ -34,18 +34,15 @@ I'm a passionate web developer with experience in creating modern and responsive
 
 Email at [nafismahamudshahin@gmail.com](mailto:nafismahamudshahin@gmail.com). 
 
-## 🔗 Social Media
 
-Connect with me on social media:
-
-- [LinkedIn](https://www.linkedin.com/in/nafismahamudshahin/)
-- [Facebook](https://www.facebook.com/nafismahamudshahin/)
-- [Twitter](https://twitter.com/yourusername)
-- [Instagram](https://www.instagram.com/nafismahamudshahine)
 
 ## 🤝 Let's Collaborate
 
 I'm always open to interesting projects and collaborations. Feel free to reach out if you'd like to work together!
+
+## 🔗 Social Media
+
+Connect with me on social media:
 
 <a href="https://www.linkedin.com/in/nafismahamudshahin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/nafismahamudshahin" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
