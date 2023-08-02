@@ -30,16 +30,13 @@ I'm a passionate web developer with experience in creating modern and responsive
 
 
 
-## 📫 Contact Me
+
+
+
+
+
 
 Email at [nafismahamudshahin@gmail.com](mailto:nafismahamudshahin@gmail.com). 
-
-
-
-## 🤝 Let's Collaborate
-
-I'm always open to interesting projects and collaborations. Feel free to reach out if you'd like to work together!
-
 ## 🔗 Social Media
 
 Connect with me on social media:
@@ -49,4 +46,9 @@ Connect with me on social media:
 <a href="https://twitter.com/nafismahamudshahin" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/nafismahamudshahin" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/nafismahamudshahin" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+## 🤝 Let's Collaborate
+
+I'm always open to interesting projects and collaborations. Feel free to reach out if you'd like to work together!
+## 📫 Contact Me
 
