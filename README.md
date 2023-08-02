@@ -27,15 +27,6 @@ I'm a passionate web developer with experience in creating modern and responsive
 ### Project 2: [](https://github.com/yourusername/project2)
 [P d]
 
-
-
-
-
-
-
-
-
-
 Email at [nafismahamudshahin@gmail.com](mailto:nafismahamudshahin@gmail.com). 
 ## 🔗 Social Media
 
