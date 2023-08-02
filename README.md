@@ -27,6 +27,8 @@ I'm a passionate web developer with experience in creating modern and responsive
 ### Project 2: [](https://github.com/yourusername/project2)
 [P d]
 
+## 📫 Contact Me
+
 Email at [nafismahamudshahin@gmail.com](mailto:nafismahamudshahin@gmail.com). 
 ## 🔗 Social Media
 
@@ -41,5 +43,5 @@ Connect with me on social media:
 ## 🤝 Let's Collaborate
 
 I'm always open to interesting projects and collaborations. Feel free to reach out if you'd like to work together!
-## 📫 Contact Me
+
 
