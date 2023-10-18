@@ -20,7 +20,7 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 
-# Hi there, I'm [Nafis Mahamud Shahin](https://nafismahamudshahin.com/) 👋
+# <br> Hi there, I'm [Nafis Mahamud Shahin](https://nafismahamudshahin.com/) 👋
 A highly motivated and detail-oriented developer with a passion for building creative solutions.
  
 Throughout my program, I gained extensive experience in a variety of technologies, including HTML, CSS, Bootstrap, JavaScript, Node.js, MongoDB, and other tools used in web development. I enjoy working on both front-end and back-end development and have a strong understanding of data structures and algorithms.
