@@ -33,6 +33,37 @@ I'm a passionate web developer with experience in creating modern and responsive
 -->
 
 
+
+	
+## 🚀 Skills
+
+- HTML5, CSS3, JavaScript
+- Front-end frameworks (React, Vue, Angular)
+- Back-end development (Node.js, Express)
+- Database management (SQL, MongoDB)
+- Version control (Git, GitHub)
+
+## 🌐 Projects
+
+### Project 1: [](https://github.com/yourusername/project1)
+[P d]
+
+### Project 2: [](https://github.com/yourusername/project2)
+[P d]
+<!--
+## 📫 Contact Me
+Email at [nafismahamudshahin@gmail.com](mailto:nafismahamudshahin@gmail.com). 
+-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="w4llfl0w3r13" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -64,35 +95,7 @@ I'm a passionate web developer with experience in creating modern and responsive
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
-	
-## 🚀 Skills
 
-- HTML5, CSS3, JavaScript
-- Front-end frameworks (React, Vue, Angular)
-- Back-end development (Node.js, Express)
-- Database management (SQL, MongoDB)
-- Version control (Git, GitHub)
-
-## 🌐 Projects
-
-### Project 1: [](https://github.com/yourusername/project1)
-[P d]
-
-### Project 2: [](https://github.com/yourusername/project2)
-[P d]
-<!--
-## 📫 Contact Me
-Email at [nafismahamudshahin@gmail.com](mailto:nafismahamudshahin@gmail.com). 
--->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="w4llfl0w3r13" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
-</p>
 
 <!--
 ## 🔗 Social Media
