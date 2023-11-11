@@ -35,18 +35,12 @@ I'm a passionate web developer with experience in creating modern and responsive
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>
 
-## 🌐 Projects
+### 🌐 Projects
 | <a href="https://github.com/yourusername/project1"> projest 1 <a/> | <a href="https://github.com/yourusername/project2"> projest 2 <a/> | <a href="https://github.com/yourusername/project3"> projest 3 <a/> | <a href="https://github.com/yourusername/project4"> projest 4 <a/> | <a href="https://github.com/yourusername/project5"> projest 5 <a/> | <a href="https://github.com/yourusername/project6"> projest 6 <a/> |
 | ------ | ------ | ------ | ------ | ------ | ------
 
-### Project 1: [](https://github.com/yourusername/project1)
-[P d]
-
-### Project 2: [](https://github.com/yourusername/project2)
-[P d]
-
 <!-- connect with me: -->
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/nafismahamudshahin~" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafismahamudshahin" height="30" width="40" /></a>
 <a href="https://fb.com/nafismahamudshahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafismahamudshahin" height="30" width="40" /></a>
@@ -58,7 +52,7 @@ I'm a passionate web developer with experience in creating modern and responsive
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
 </p>
 
-## 📫 Email:
+### 📫 Email:
 ```sh 
 nafismahamudshahin@gmail.com
 ```
