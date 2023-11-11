@@ -1,5 +1,6 @@
-![Web Developer | MERN](https://i.ibb.co/RNbmvff/nafismahamud.png)
-<h1 style="font-size:50px;"> <a href="https://nafismahamudshahin.com">Hi there,</a>👋</h1>
+![Web Developer](https://i.ibb.co/RNbmvff/nafismahamudshahin.png)
+# Nafis Mahamud Shahin
+### Web Developer 
 
 A highly motivated and detail-oriented developer with a passion for building creative solutions.
  
