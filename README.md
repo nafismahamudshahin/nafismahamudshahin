@@ -1,8 +1,6 @@
 ![Web Developer](https://i.ibb.co/RNbmvff/nafismahamudshahin.png)
-[Nafis Mahamud Shahin](gitartwork.svg)
-# Nafis Mahamud Shahin
+![Nafis Mahamud Shahin](gitartwork.svg)
 ### Web Developer 
-
 A highly motivated and detail-oriented developer with a passion for building creative solutions.
  
 Throughout my program, I gained extensive experience in a variety of technologies, including HTML, CSS, Bootstrap, JavaScript, Node.js, MongoDB, and other tools used in web development. I enjoy working on both front-end and back-end development and have a strong understanding of data structures and algorithms.
