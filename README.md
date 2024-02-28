@@ -2,7 +2,7 @@
 
 ### Web Developer 
 A highly motivated and detail-oriented developer with a passion for building creative solutions.
- 
+
 Throughout my program, I gained extensive experience in a variety of technologies, including HTML, CSS, Bootstrap, JavaScript, Node.js, MongoDB, and other tools used in web development. I enjoy working on both front-end and back-end development and have a strong understanding of data structures and algorithms.
 
 I am committed to writing clean, maintainable code that delivers the best possible user experience. I'm always looking for new challenges and opportunities to learn and grow as a developer, and I believe in the importance of staying up-to-date with the latest trends and technologies.
