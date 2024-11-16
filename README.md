@@ -1,5 +1,5 @@
 ![Web Developer](https://i.ibb.co/RNbmvff/nafismahamudshahin.png)
-##![](https://komarev.com/ghpvc/?username=nafismahamudshahin&color=green)
+![](https://komarev.com/ghpvc/?username=nafismahamudshahin&color=green)
 ### Web Developer 
 A highly motivated and detail-oriented developer with a passion for building creative solutions.
 
