@@ -30,7 +30,7 @@ I'm a passionate web developer with experience in creating modern and responsive
 ![Nafis Mahamud Shahin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafismahamudshahin&show_icons=true&count_private=true&theme=radical)
 
 ### Daily Streak
-![[Daily Streak](https://github-readme-streak-stats.herokuapp.com/?user=nafismahamudshahin&theme=dark&background=0D1228&ring=1CAAD9&fire=DD2729)](https://github.com/nafismahamudshahin)
+![Daily Streak](https://github-readme-streak-stats.herokuapp.com/?user=nafismahamudshahin&theme=dark&background=0D1228&ring=1CAAD9&fire=DD2729)
 
 ### Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafismahamudshahin&layout=compact&langs_count=8&theme=dark&bg_color=0D1228&text_color=FFFFFF&hide_border=true)
