@@ -22,6 +22,19 @@ I'm a passionate web developer with experience in creating modern and responsive
 | <a target="_blank" href="https://nafismahamudshahin.github.io/bteb-rimt-cst-21-22-result"> CST RESULT <a/> | <a href="https://github.com/yourusername/project2"> projest 2 <a/> | <a href="https://github.com/yourusername/project3"> projest 3 <a/> | <a href="https://github.com/yourusername/project4"> projest 4 <a/> | <a href="https://github.com/yourusername/project5"> projest 5 <a/> | <a href="https://github.com/yourusername/project6"> projest 6 <a/> |
 | ------ | ------ | ------ | ------ | ------ | ------
 
+
+<!--GitHub Activity Section-->
+## GitHub Activity
+
+### Commit Count
+![Nafis Mahamud Shahin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafismahamudshahin&show_icons=true&count_private=true&theme=radical)
+
+### Daily Streak
+![[Daily Streak](https://github-readme-streak-stats.herokuapp.com/?user=nafismahamudshahin&theme=dark&background=0D1228&ring=1CAAD9&fire=DD2729)](https://github.com/nafismahamudshahin)
+
+### Top Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafismahamudshahin&layout=compact&langs_count=8&theme=dark&bg_color=0D1228&text_color=FFFFFF&hide_border=true)
+
 <!-- connect with me: -->
 ### Connect with me:
 <p align="left">
