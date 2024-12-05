@@ -21,7 +21,8 @@ I'm a passionate web developer with experience in creating modern and responsive
 ### 🌐 Projects
 | <a target="_blank" href="https://nafismahamudshahin.github.io/bteb-rimt-cst-21-22-result"> CST RESULT <a/> | <a href="https://github.com/yourusername/project2"> projest 2 <a/> | <a href="https://github.com/yourusername/project3"> projest 3 <a/> | <a href="https://github.com/yourusername/project4"> projest 4 <a/> | <a href="https://github.com/yourusername/project5"> projest 5 <a/> | <a href="https://github.com/yourusername/project6"> projest 6 <a/> |
 | ------ | ------ | ------ | ------ | ------ | ------
-
+<!-- codeforce stats-->
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nafismahamudshahin)](https://codeforces.com/profile/nafismahamudshahin)
 
 <!--GitHub Activity Section-->
 ## GitHub Activity
