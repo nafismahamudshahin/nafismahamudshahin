@@ -1,10 +1,10 @@
 ![Web Developer](https://i.ibb.co/RNbmvff/nafismahamudshahin.png)
 ![](https://komarev.com/ghpvc/?username=nafismahamudshahin&color=green)
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4200&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Nafis+Mahamud+Shahin!"/>
-</h1>
 
-### About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4200&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Nafis+Mahamud+Shahin!"/>
+</p>
+
 A highly motivated and detail-oriented developer with a passion for building creative solutions.
 
 Throughout my program, I gained extensive experience in a variety of technologies, including HTML, CSS, Bootstrap, JavaScript, Node.js, MongoDB, and other tools used in web development. I enjoy working on both front-end and back-end development and have a strong understanding of data structures and algorithms.
@@ -30,14 +30,18 @@ I'm a passionate web developer with experience in creating modern and responsive
 
 <!--GitHub Activity Section-->
 ## GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafismahamudshahin&show_icons=true&count_private=true&theme=radical" width="49.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafismahamudshahin&theme=dark&background=#0f0f0f&ring=1CAAD9&fire=DD2729" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafismahamudshahin&show_icons=true&count_private=true&theme=radical" width="48%" />
+  <img width="2%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafismahamudshahin&theme=radical&background=#0f0f0f&ring=1CAAD9&fire=DD2729" width="48%" />
 </p>
 
-### Top Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafismahamudshahin&layout=compact&langs_count=8&theme=dark&bg_color=#0f0f0f&text_color=FFFFFF&hide_border=true)
+
+<p>
+  <img src="https://leetcard.jacoblin.cool/nafismahamudshahin?theme=radical&font=FFFFFF" width="48%"/>
+  <img width="3%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafismahamudshahin&layout=compact&langs_count=8&theme=radical&bg_color=#0f0f0f&text_color=FFFFFF&hide_border=false" width="35%"/>
+</p>
 
 <!-- connect with me: -->
 ## How to reach me:
