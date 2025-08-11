@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4200&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Nafis+Mahamud+Shahin!;Django+Developer"/>
 </p>
 
-# 👨‍💻 About Me
+# 👨‍💻 About Me 
 Hello! I'm Nafis Mahamud Shahin, a passionate Django Developer with a strong focus on building scalable and efficient web applications using Python and Django
 
 💡I have a deep interest in Problem-solving, Competitive Programming and actively participate in Codeforces and CodeChef contest to improve my DSA Skills and take challenging problems.
@@ -37,11 +37,13 @@ Hello! I'm Nafis Mahamud Shahin, a passionate Django Developer with a strong foc
 </p>
 
 
+
 <p>
   <img src="https://leetcard.jacoblin.cool/nafismahamudshahin?theme=radical&font=FFFFFF" width="48%"/>
   <img width="3%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafismahamudshahin&layout=compact&langs_count=8&theme=radical&bg_color=#0f0f0f&text_color=FFFFFF&hide_border=false" width="35%"/>
 </p>
+
 
 <!-- connect with me: -->
 ## How to reach me:
@@ -56,7 +58,8 @@ Hello! I'm Nafis Mahamud Shahin, a passionate Django Developer with a strong foc
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
 </p>
 
-### 📫 Email:
+
+### 📫 Email: 
 ```sh 
 nafismahamudshahin@gmail.com
 ```
