@@ -48,7 +48,7 @@ Hello! I'm Nafis Mahamud Shahin, a passionate Django Developer with a strong foc
 <!-- connect with me section: -->
 ## How to reach me:
 <p align="left">
-<a href="https://linkedin.com/in/nafismahamudshahin~" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafismahamudshahin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nafismahamudshahin-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafismahamudshahin" height="30" width="40" /></a>
 <a href="https://fb.com/nafismahamudshahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafismahamudshahin" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>
