@@ -33,7 +33,7 @@ Hello! I'm Nafis Mahamud Shahin, a passionate Django Developer with a strong foc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nafismahamudshahin&show_icons=true&count_private=true&theme=radical" width="48%" />
   <img width="2%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafismahamudshahin&theme=radical&background=#0f0f0f&ring=1CAAD9&fire=DD2729" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nafismahamudshahin&theme=radical&background=#0f0f0f&hide_border=false" width="48%" />
 </p>
 
 
