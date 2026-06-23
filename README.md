@@ -92,11 +92,9 @@
   <a href="https://codeforces.com/profile/nafismahamudshahin">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nafismahamudshahin&theme=dark" />
   </a>
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/nafismahamudshahin?theme=dark&font=Fira+Code" width="48%"/>
 </p>
+
 
 ---
 
@@ -107,7 +105,6 @@
 </p>
 
 <p align="center">
- <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=nafismahamudshahin&theme=radical&hide_border=true" width="48%" /> -->
   <img src="https://streak-stats.demolab.com/?user=nafismahamudshahin&theme=dark&hide_border=true" width="48%" /
 </p>
  
