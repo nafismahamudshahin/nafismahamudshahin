@@ -7,6 +7,7 @@
 </div>
 
 ---
+
 ## 💫 About Me
 - 💻 Backend Developer specializing in Python, Django & Django REST Framework
 - 🏆 Competitive Programmer on Codeforces and CodeChef
@@ -68,18 +69,25 @@
 
 ---
 
-## 🌐 Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [📊 CST Result Portal](https://nafismahamudshahin.github.io/bteb-rimt-cst-21-22-result) | BTEB RIMT CST 2021–22 result viewer | HTML, CSS, JS |
-| [🔧 Project 2](https://github.com/yourusername/project2) | Coming soon... | — |
-| [🔧 Project 3](https://github.com/yourusername/project3) | Coming soon... | — |
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/nafismahamudshahin-/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://fb.com/nafismahamudshahin" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:nafismahamudshahin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/nafismahamudshahin" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 Competitive Programming
-
 <p align="center">
   <a href="https://codeforces.com/profile/nafismahamudshahin">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nafismahamudshahin&theme=dark" />
@@ -93,19 +101,14 @@
 ---
 
 ## 📈 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafismahamudshahin&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nafismahamudshahin&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafismahamudshahin&show_icons=true&theme=radical&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafismahamudshahin&layout=compact&langs_count=8&theme=radical&hide_border=true" width="38%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafismahamudshahin&layout=compact&langs_count=8&theme=radical&hide_border=true" width="40%"/>
+ <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=nafismahamudshahin&theme=radical&hide_border=true" width="48%" /> -->
+  <img src="https://streak-stats.demolab.com/?user=nafismahamudshahin&theme=dark&hide_border=true" width="48%" /
 </p>
-
+ 
 ---
-
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</div>
