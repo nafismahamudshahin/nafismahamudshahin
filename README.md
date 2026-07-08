@@ -100,7 +100,7 @@
 
 ## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafismahamudshahin&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nafismahamudshahin&hide=HTML,CSS&langs_count=8&layout=compact&theme=radical&border_radius=1&count_weight=0.3&exclude_repo=github-readme-stats" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafismahamudshahin&layout=compact&langs_count=8&theme=radical&hide_border=true" width="38%"/>
 </p>
 
