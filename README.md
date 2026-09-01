@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://i.ibb.co/RNbmvff/nafismahamudshahin.png" alt="Nafis Mahamud Shahin" width="100%" />
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=nafismahamudshahin&color=00d4aa&style=flat-square&label=Profile+Views)
+ <!-- <img src="https://i.ibb.co/RNbmvff/nafismahamudshahin.png" alt="Nafis Mahamud Shahin" width="100%" /> -->
+<img src="./nafismahamudshahinbanner.png"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&height=70&duration=4200&color=00D4AA&lines=Hi+There!+%F0%9F%91%8B+I'm+Nafis!;Django+%26+DRF+Backend+Developer;Competitive+Programmer+%F0%9F%8F%86;Always+Building+Something+New+%F0%9F%9A%80" />
+ ![Profile Views](https://komarev.com/ghpvc/?username=nafismahamudshahin&color=00d4aa&style=flat-square&label=Profile+Views)
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&height=70&duration=3500&pause=1500&color=00D4AA&lines=Hi+There!+%F0%9F%91%8B+I'm+Nafis+Mahamud+Shahin!;Full+Stack+Developer;Competitive+Programmer+%F0%9F%8F%86;Always+Building+Something+New+%F0%9F%9A%80" />
 </div>
 
 ---
