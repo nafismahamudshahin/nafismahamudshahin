@@ -1,6 +1,6 @@
 <div align="center">
  <!-- <img src="https://i.ibb.co/RNbmvff/nafismahamudshahin.png" alt="Nafis Mahamud Shahin" width="100%" /> -->
-<img src="./nafismahamudshahinbanner.png"/>
+<img src="./Nafis Mahamud Shahin_ Developer Workspace.png"/>
 
  ![Profile Views](https://komarev.com/ghpvc/?username=nafismahamudshahin&color=00d4aa&style=flat-square&label=Profile+Views)
 
@@ -10,6 +10,10 @@
 ---
 
 ## 💫 About Me
+I am a backend-focused full-stack developer. I study Computer Science and Engineering at Eastern University.
+
+I like building APIs, secure login systems and databases, and then connecting them to a clean frontend. I try to learn something new from every project.
+
 - 💻 Backend Developer specializing in Python, Django & Django REST Framework
 - 🏆 Competitive Programmer on Codeforces and CodeChef
 - ⭐ CodeChef 2-Star Programmer
@@ -17,6 +21,7 @@
 - 🌱 Currently learning React, TypeScript & Next.js
 - 🎓 Computer Science & Technology Student
 - 📚 Always learning new technologies and building real-world projects
+- 🚀 Looking for open-source work and scalable backend projects
 
 ---
 
@@ -87,26 +92,38 @@
 </p>
 
 ---
-
 ## 📊 Competitive Programming
-<p align="center">
-  <a href="https://codeforces.com/profile/nafismahamudshahin">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nafismahamudshahin&theme=dark" />
-  </a>
-  <img src="https://leetcard.jacoblin.cool/nafismahamudshahin?theme=dark&font=Fira+Code" width="48%"/>
-</p>
 
+<div align="center">
+  <a href="https://codeforces.com/profile/nafismahamudshahin">
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=nafismahamudshahin&bg_color=060D18&title_color=38BDF8&text_color=C9D8F0&icon_color=38BDF8&hide_border=true&disable_animations=true"
+      width="48%"
+      alt="Codeforces Stats"
+    />
+  </a>
+  <img
+    src="https://leetcard.jacoblin.cool/nafismahamudshahin?theme=dark&font=Fira+Code&ext=activity&bg_color=060D18&border=0&radius=12"
+    width="48%"
+    alt="LeetCode Stats"
+  />
+</div>
 
 ---
 
 ## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nafismahamudshahin&hide=HTML,CSS&langs_count=8&layout=compact&theme=radical&border_radius=1&count_weight=0.3&exclude_repo=github-readme-stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafismahamudshahin&layout=compact&langs_count=8&theme=radical&hide_border=true" width="38%"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nafismahamudshahin&theme=dark&hide_border=true" width="48%" /
-</p>
- 
+<div align="center">
+  <img
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nafismahamudshahin&layout=compact&theme=github_dark&bg_color=060D18&title_color=38BDF8&text_color=C9D8F0&hide_border=true&hide=HTML,CSS&langs_count=15&card_width=450&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    width="48%"
+    alt="Top Languages"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=nafismahamudshahin&background=060D18&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&hide_border=true"
+    width="48%"
+    alt="GitHub Streak Stats"
+  />
+</div>
+
 ---
